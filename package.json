@@ -8,11 +8,15 @@
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adirizky54/types-react-google-recaptcha-enterprise"
+    "url": "git+https://github.com/adirizky54/types-react-google-recaptcha-enterprise.git"
   },
   "scripts": {},
   "dependencies": {
     "@types/react": "*"
   },
-  "typeScriptVersion": "3.9"
+  "typeScriptVersion": "3.9",
+  "bugs": {
+    "url": "https://github.com/adirizky54/types-react-google-recaptcha-enterprise/issues"
+  },
+  "author": ""
 }
