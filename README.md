@@ -1,1 +1,1 @@
-# -types-react-google-recaptcha-enterprise
+# types-react-google-recaptcha-enterprise
